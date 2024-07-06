@@ -12,11 +12,16 @@
 
 ## Araç Resim API
 - https://cdn.imagin.studio/getimage
+
+### API parameters
 - customer
 - make
 - modelFamily
 - zoomtype
 - angle 
 - paintId
+
+## Önizleme
+![/public/ts-car-rent.gif](/public/ts-car-rent.gif)
 
 
